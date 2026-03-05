@@ -10,8 +10,3 @@ Los datos provienen del portal de Datos Abiertos de la ONPE:
 
 ### Documento oficial:
 https://www.onpe.gob.pe/modElecciones/Datos-abiertos-Historico-resultados/ERM-2022.pdf
-
-
-Organización política
-
-Validación cruzada con documentación oficial.
